@@ -34,8 +34,8 @@ O projeto utiliza a API da Azure OpenAI para realizar as traduções, garantindo
 
 1. Clone o repositório:
 ```bash
-git clone https://seu-repositorio/tradutor-multi-formato.git
-cd tradutor-multi-formato
+git clone https://github.com/fpedrolucas95/DIO-Tradutor-Azure.git
+cd DIO-Tradutor-Azure
 ```
 
 2. Instale as dependências:
